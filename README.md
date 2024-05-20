@@ -5,19 +5,21 @@ It is an application for Mac OS to generate icons for all Apple environment: iPh
 
 
 
-<IMG SRC="urlfoto" ALT="img">
+<IMG SRC="https://github.com/funcoleto/Iconos/blob/main/imagen.png" ALT="img">
   
 
-<a href="https://twitter.com/funcofunco" rel="nofollow"><img src="https://img.shields.io/badge/contact-@funcofunco-blue.svg" alt="Twitter: @funcofunco" data-canonical-src="https://img.shields.io/badge/contact-@funcofunco-blue.svg" style="max-width:100%;"></a>
+<a href="https://x.com/funcofunco" rel="nofollow"><img src="https://img.shields.io/badge/contact-@funcofunco-blue.svg" alt="Twitter: @funcofunco" data-canonical-src="https://img.shields.io/badge/contact-@funcofunco-blue.svg" style="max-width:100%;"></a>
 
 
-# 21 Mayo 2024
+# 21 May 2024
 
-Para generar los iconos de las apps en xcode
+To generate app icons in xcode
 
-### Instalación
-* [**Descarga el protector**](url)
-* Disfruta 🍎
 
-Creado por Funcofunco. Sigueme en [Twitter](https://twitter.com/funcofunco).
+### Easy
+* [**Download the program**](https://github.com/funcoleto/Iconos/blob/main/iconos.app.zip)
+* Enjoy 🍎
+
+
+Created by Funcofunco. follow me in[X](https://x.com/funcofunco).
 
