@@ -21,5 +21,5 @@ To generate app icons in xcode
 * Enjoy 🍎
 
 
-Created by Funcofunco. follow me in[X](https://x.com/funcofunco).
+Created by Funcofunco. follow me in [X](https://x.com/funcofunco).
 
